@@ -1,5 +1,4 @@
 # atten-vs-sphere
-Tissue attenuation vs. spherical spreading loss over distance
-![Plot](images/plot.png)
+Tissue attenuation vs. spherical spreading loss over distance (re-scattered, for imaging)
 
-TODO: figure out how to present the spreading loss as purely attenuative (should'nt be > 1 at all)
+![Plot](images/attenuation_plot.png)
